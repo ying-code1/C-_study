@@ -16,7 +16,7 @@ class stock
         void sell(long num,double price);
         void update(double price);
         void show();
-        // note semicolon at the end
+        // note semicolon at the end //
 };
 
 #endif
